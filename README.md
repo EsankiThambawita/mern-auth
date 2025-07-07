@@ -1,6 +1,6 @@
 # MERN Authentication Starter
 
-A starter MERN stack application featuring user authentication and a Single Page Application (SPA) workflow using **Vite** as the frontend build tool. This project is based on the MERN Stack From Scratch | eCommerce course, tailored for quick setup and easy customization.
+A starter MERN stack application featuring user authentication and a Single Page Application (SPA) workflow using **Vite** as the frontend build tool. This project is based on the MERN Stack From Scratch | eCommerce course, tailored for quick setup and easy customization. (A practical project built to learn and master the MERN stack, JWT authentication, and Redux state management.)
 
 ---
 
